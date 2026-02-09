@@ -1,17 +1,9 @@
 {
-	"geode": "4.10.0-alpha.1",
-	"version": "v1.4.0",
-        "gd": {
-            "win": "2.2074",
-            "android": "2.2074",
-            "mac": "2.2074",
-            "ios": "2.2074"
-        },
-	"id": "techstudent10.hide_locks",
+	"geode": "4,12.0",
+	"version": "v1.0.0",
+	"id": "ketsutt-coder.hide_locks",
 	"name": "Hide Locks",
-	"developer": "TechStudent10",
-	"description": "Hides the locks in the Icon Kit",
-	"links": {
-		"source": "https://github.com/TechStudent10/HideLocks"
-	}
+	"developer": "ketsutt-coder",
+	"description": "Oculta los candados en el Icon Kit.",
+	"dependencies": []
 }
